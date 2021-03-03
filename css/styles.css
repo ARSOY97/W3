@@ -1,0 +1,171 @@
+.class_s{
+    font-family: "Verdana";
+}
+.class_div{
+    padding:0 0 0 70%;
+    display: inline-block;
+}
+.class_span {
+    padding:0 0 20px 20px;
+    font-family: "Verdana";
+}
+.class_span1 {
+    padding:0 0 0 20px;
+    font-family: "Verdana";
+}
+.class_div1 {
+    background-image: url('img/architect.jpg');
+    background-size:cover ;
+    padding: 20% 20% 20% 20%;
+    text-align:center;
+    color: white;
+    font-family: "Segoe UI";
+  }
+.class_BR{
+    font-family: Verdana, Tahoma, sans-serif;
+}
+b{
+    display:inline-block;
+    background-color: rgba(68, 67, 67, 0.5);
+    width:80px;
+    height:50px;
+    padding: 10px 10px 1px 1px;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .flex-container1 {
+    background-image: url('img/house1.jpg');
+    margin: 10px;
+    padding: 8%;
+    font-size: 30px;
+    width: 7%;
+    height: 10px;
+  }
+.flex-container2 {
+    background-image: url('img/house2.jpg');
+    margin: 10px;
+    padding: 8%;
+    font-size: 30px;
+    width: 7%;
+    height: 10px;
+  }
+.flex-container3 {
+    background-image: url('img/house3.jpg');
+    margin: 10px;
+    padding: 8%;
+    font-size: 30px;
+    width: 7%;
+    height: 10px;
+  }
+.flex-container4 {
+    background-image: url('img/house4.jpg');
+    margin: 10px;
+    padding: 8%;
+    font-size: 30px;
+    width: 7%;
+    height: 10px;
+  }
+.flex-container5 {
+    background-image: url('img/house5.jpg');
+    margin: 10px;
+    padding: 8%;
+    font-size: 30px;
+    width: 7%;
+    height: 10px;
+  }
+.flex-container6 {
+    background-image: url('img/house6.jpg');
+    margin: 10px;
+    padding: 8%;
+    font-size: 30px;
+    width: 7%;
+    height: 10px;
+}
+.flex-container7 {
+        background-image: url('img/house7.jpg');
+        margin: 10px;
+        padding: 8%;
+        font-size: 30px;
+        width: 7%;
+        height: 10px;
+}
+
+.flex-container8 {
+    background-image: url('img/house8.jpg');
+    margin: 10px;
+    padding: 8%;
+    font-size: 30px;
+    width: 7%;
+    height: 10px;
+  }
+.texte{
+    display:inline-block;
+    background-color: rgba(4, 1, 15, 0.699);
+    width:220px;
+    height:40px;
+    padding: 10px 10px 1px 1px;
+    color: white;
+    font-family: "Segoe UI";
+    position: relative;
+    bottom: 1080%;
+    right: 107px;
+}
+.about{
+    margin: 10px;
+    padding: 5px;
+    font-size: 30px;
+    width: 250px;
+    height: 160px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.about1{
+    box-sizing:border-box;
+    margin: 10px;
+    padding: 5px;
+    font-size: 20px;
+    width: 250px;
+    height: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sp{
+    color: rgb(92, 88, 88);
+}
+.butt{
+    height: 40px;
+    width: 100%;
+    }
+.frm{
+    width:100%;
+    height: 30px;
+}
+
+.msg{
+    background-color: black;
+    font-family: 'Segoe UI';
+    color: white;
+    width: 200px;
+    height: 50px;
+}
+
+.map{
+    background-image: url('img/map.jpg');
+    background-size:cover ;
+    padding: 30% 30%;
+    margin-top: 10px;
+}
+
+.pow{
+    background-color: black;
+    width: 100%;
+    height: 40%;
+    padding: 20px 20px;
+    color: white;
+    font-family: 'Segoe UI';
+    margin-top: 10px;
+    text-align: center;
+}
+
